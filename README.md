@@ -26,8 +26,14 @@ Python · SQL · pandas · NumPy · Jupyter Notebook · Microsoft Azure · Jira 
 
 ## Certifications
 
-- Microsoft Azure Fundamentals (AZ-900)
-- Microsoft Azure Administrator (AZ-104)
+## Certifications & Professional Development
+
+- **Introduction to Artificial Intelligence** — Coursera | September 2026
+- **Generative AI: Introduction and Applications** — Coursera | September 2026
+- **Generative AI: Prompt Engineering Basics** — Coursera | October 2026
+- **Python for Data Science, AI & Development** — Coursera | October 2026
+- **Microsoft Azure Fundamentals (AZ-900)**
+- **Microsoft Azure Administrator (AZ-104)**
 
 ## Connect
 [Connect with me on LinkedIn](https://www.linkedin.com/in/zoubeirqadi)
